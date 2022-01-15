@@ -23,7 +23,7 @@ To read this book, see [book.asciidoc](https://github.com/ethereumbook/ethereumb
 + Chapter 11: '[Oracles](https://github.com/ethereumbook/ethereumbook/blob/develop/11oracles.asciidoc)'
 + Chapter 12: '[Decentralized Applications (DApps)](https://github.com/ethereumbook/ethereumbook/blob/develop/12dapps.asciidoc)'
 + Chapter 13: '[The Ethereum Virtual Machine](https://github.com/ethereumbook/ethereumbook/blob/develop/13evm.asciidoc)'
-+ Chapter 14: '[Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)'
++ ~~Chapter 14: '[Consensus](https://github.com/ethereumbook/ethereumbook/blob/develop/14consensus.asciidoc)'~~
 
 ## Content
 
